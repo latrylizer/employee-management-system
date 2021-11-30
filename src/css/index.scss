@@ -1,0 +1,13 @@
+.list-group-item {
+    border-radius: 0 !important;
+    background-color: rgba(0, 0, 0, 0);
+    transition: ease-in-out 0.1s;
+    border: none !important;
+}
+.list-group-item:hover {
+    background-color: #fc8259 !important;
+    transition: ease-in-out 0.1s;
+}
+.active {
+    background-color: #ee5c2b !important;
+}
